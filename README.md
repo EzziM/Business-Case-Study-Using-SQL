@@ -26,6 +26,7 @@ products.csv
 ___________________________________________________________________________________________________________
 
 The column description for these csv files is given below.
+___________________________________________________________________________________________________________
 
 The customers.csv contain following features:
 
@@ -41,6 +42,7 @@ customer_city : Name of the City from where order is made
 
 customer_state : State Code from where order is made (Eg. são paulo - SP)
 
+___________________________________________________________________________________________________________
 
 The sellers.csv contains following features:
 
@@ -54,6 +56,7 @@ seller_city : Name of the City of the seller
 
 seller_state : State Code (Eg. são paulo - SP)
 
+___________________________________________________________________________________________________________
 
 
 The order_items.csv contain following features:
@@ -74,6 +77,8 @@ price : Actual price of the products ordered
 
 freight_value : Price rate at which a product is delivered from one point to another
 
+___________________________________________________________________________________________________________
+
 
 The geolocations.csv contain following features:
 
@@ -88,6 +93,8 @@ geolocation_lng : Longitude
 geolocation_city : City
 
 geolocation_state : State
+
+___________________________________________________________________________________________________________
 
 
 The payments.csv contain following features:
@@ -104,6 +111,7 @@ payment_installments : Number of installments in case of EMI purchase
 
 payment_value : Total amount paid for the purchase order
 
+___________________________________________________________________________________________________________
 
 The orders.csv contain following features:
 
@@ -123,6 +131,7 @@ order_delivered_customer_date : Date at which customer got the product
 
 order_estimated_delivery_date : Estimated delivery date of the products
 
+___________________________________________________________________________________________________________
 
 
 The reviews.csv contain following features:
@@ -143,6 +152,7 @@ review_creation_date : Timestamp of the review when it is created
 
 review_answer_timestamp : Timestamp of the review answered
 
+___________________________________________________________________________________________________________
 
 
 The products.csv contain following features:
